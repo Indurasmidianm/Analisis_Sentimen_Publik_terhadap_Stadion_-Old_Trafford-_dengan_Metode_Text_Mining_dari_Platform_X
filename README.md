@@ -1,0 +1,1 @@
+# Analisis_Sentimen_Publik_terhadap_Stadion_-Old_Trafford-_dengan_Metode_Text_Mining_dari_Platform_X
